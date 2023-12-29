@@ -1,18 +1,4 @@
-[tool.poetry]
-name = "FonoWeb"
-version = "0.1.0"
-description = "Phonogram management registration system"
-authors = ["Welington Carlos <wcarlos3@gmail.com>", "Lucas Grosso <lucas.grossosouza@gmail.com>", "Alexandre Velozo <alevelozo26@gmail.com>"]
-readme = "README.md"
-license = "MIT"
-repository = "https://github.com/wt3c/fonoweb.git"
+[tool.ruff]
+ignore = ["E501", "E701", "E702", "E703", "F405"]
 
-[tool.poetry.dependencies]
-python = "^3.12"
-django = "*"
-pytest = "*"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+extend-exclude = ["bin"]

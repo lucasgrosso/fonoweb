@@ -1,0 +1,10 @@
+id_grupo_instrumento,nome,dt_inclusao,dt_alteracao,is_deleted,usuario,ind_part_calc_musico_acomp
+1,"SOPRO","09/08/15 12:14:39",,0,"ECAD","S"
+2,"CORDAS/STRINGS","09/08/15 12:14:39",,0,"ECAD","S"
+3,"PERCUSSAO","09/08/15 12:14:39",,0,"ECAD","S"
+4,"TECLADO","09/08/15 12:14:39",,0,"ECAD","S"
+5,"SINTETIZADOR","09/08/15 12:14:39",,0,"ECAD","S"
+6,"ESPECIAIS","09/08/15 12:14:39",,0,"ECAD","S"
+66,"FLAUTA BARROCA","09/08/15 12:14:39",,0,"ECAD","S"
+86,"HAMMOND XB3","09/08/15 12:14:39",,0,"ECAD","S"
+126,"PROFISSÕES","09/08/15 12:14:39",,0,"ECAD","N"

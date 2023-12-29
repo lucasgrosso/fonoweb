@@ -1,0 +1,2 @@
+id_parametro,id_produtor_fonografico,id_pais,sgl_IFPI,ano_base,seq_ISRC,dt_inclusao,dt_alteracao,is_deleted,usuario,check,versao,sgl_radical_IFPI
+1,22,1,"API",2023,0,"09/08/15 00:00:00","12/29/23 01:25:27",0,"wcarl","3DBFF45ACF12C7F5A6A90E66D4419E9E","2.0.04","BR"

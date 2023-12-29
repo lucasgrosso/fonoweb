@@ -1,0 +1,15 @@
+ind_complemento,cod_arranjo,dsc_arranjo,is_deleted
+"N",1,"ABERTURA",0
+"N",2,"VINHETA",0
+"N",3,"ORIGINAL",0
+"N",4,"ACAO",0
+"N",5,"TENSO",0
+"N",6,"SUSPENSE",0
+"N",7,"ALEGRE",0
+"N",8,"COMICO",0
+"N",9,"ENGRACADO",0
+"N",10,"ROMANTICO",0
+"N",11,"TRISTE",0
+"N",12,"SEXY",0
+"N",13,"PASSAGEM",0
+"S",14,"OUTROS",0

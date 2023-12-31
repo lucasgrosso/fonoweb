@@ -24,11 +24,46 @@ sent to ECAD.
 
 # Users
 
-Users are the managers of the Phonograms production companies.
+Users are the managers of the Phonograms production companies.  
 Users can manage can more than one Phonograms production company.  
 Users information can only be seen by the owner of information or members of the group to which the owner is a member.
 
 # Holders
+
+Holders are the primary part of the registry.  
+Holders can be physical person or legal person
+
+## Physical person
+
+![physical_person.png](physical_person.png)
+
+### CPF
+
+![cpf.png](cpf.png)
+
+### NOTE
+
+The **'Filiação'** option is not used.  
+The **'Responsável'** option is used when the CPF of the holder is not known, in this case the CPF of
+who is registering.  
+There is a CSV file, in [fonoweb/bases/ISRC_sociedade_tb.csv](../bases/ISRC_sociedade_tb.csv), which contains the
+information for the **'Sociedade'** field.
+
+**Tips**
+manage loaddata
+
+## Legal person
+
+![legal_person.png](legal_person.png)
+
+The Address, Telephone and Contact fields are not used, however, for study reasons, we can implement them.
+
+## Pseudonym
+
+![pseudonym.png](pseudonym.png)
+
+The relationship between the holder and pseudonym is MANY to ONE, **in short** a holder can have several pseudonym
+and one pseudonym can be linked to only one holder.
 
 # Works
 

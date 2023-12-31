@@ -24,6 +24,10 @@ sent to ECAD.
 
 # Users
 
+Users are the managers of the Phonograms production companies.
+Users can manage can more than one Phonograms production company.  
+Users information can only be seen by the owner of information or members of the group to which the owner is a member.
+
 # Holders
 
 # Works

@@ -12,26 +12,26 @@
 
 # How the SISRC system work
 
-The FonoWeb system is an attempt to converter the already existing desktop system into Web system.
+The FonoWeb system is an attempt to converter the already existing desktop system into a Web system.
 
-In this documentation only detail the conversion, to learn more about the system SISRC, please see the
+This documentation only details the conversion, to learn more about the system SISRC, please see the
 [documentaton](https://pro-musicabr.org.br/isrc/pt-br/why-use/isrc-administration/index.html) and the
 [documentation](./manualISRC.pdf)
 
-In summary, the final function of the SISRC system is to generate an export with the phonogram information, in text
+In summary, the final function of the SISRC system is to generate an export with the phonogram information, in the text
 format that must be
 sent to ECAD.
 
 # Users
 
 Users are the managers of the Phonograms production companies.  
-Users can manage can more than one Phonograms production company.  
-Users information can only be seen by the owner of information or members of the group to which the owner is a member.
+Users can manage more than one Phonograms production company.  
+Users information can only be seen by the owner of the information or members of the group to which the owner is a member.
 
 # Holders
 
 Holders are the primary part of the registry.  
-Holders can be physical person or legal person
+Holders can be a physical person or legal person
 
 ## Physical person
 
@@ -62,7 +62,7 @@ The Address, Telephone and Contact fields are not used, however, for study reaso
 
 ![pseudonym.png](pseudonym.png)
 
-The relationship between the holder and pseudonym is MANY to ONE, **in short** a holder can have several pseudonym
+The relationship between the holder and pseudonym is MANY to ONE, **in short** a holder can have several pseudonyms
 and one pseudonym can be linked to only one holder.
 
 # Works

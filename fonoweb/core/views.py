@@ -1,5 +1,3 @@
 from django.shortcuts import render
 
-# Create your views here. TESTE WC
-
-
+# Create your views here.
